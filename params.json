@@ -1,0 +1,6 @@
+{
+  "name": "LionFire Open Software",
+  "tagline": "LionFire Open Software",
+  "body": "### Welcome to LionFire Open Software\r\nThis is the home of open source software made available by LionFire Games.  Not much is published here but hopefully will be some day.\r\n\r\n### Projects\r\n* [VOS](https://github.com/jaredthirsk/Vos) - Virtual Object System - a virtual filesystem for objects.\r\n* [Core](https://github.com/jaredthirsk/Core) - Core - common utilities and small frameworks\r\n* More coming soon\r\n\r\n### Docs\r\n\r\n* [LionFire Open Docs](http://lionfire.readthedocs.io/)\r\n\r\n### Contributors\r\n* Jared Thirsk (@jaredthirsk), owner of LionFire Games\r\n\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
